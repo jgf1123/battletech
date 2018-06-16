@@ -1,0 +1,146 @@
+{
+    "Description": {
+        "Id": "starsystemdef_CluffsStand",
+        "Name": "Cluff's Stand",
+        "Details": "Cluff's Stand is named for the revolutionary leader who seized power when the Capellans abandoned the world. It is dominated by a single, sprawling megacity, New Durban, and fed by massive coastal algae farms.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 1.34,
+        "y": -428.92,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_terran",
+            "planet_pop_medium",
+            "planet_civ_periphery",
+            "planet_progress_2",
+            "planet_feature_moon02",
+            "planet_industry_aquaculture",
+            "planet_industry_manufacturing",
+            "planet_other_blackmarket",
+            "planet_other_megacity",
+            "planet_other_moon",
+            "planet_industry_rich",
+            "planet_name_cluffsstand",
+            "planet_faction_independent"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 6,
+    "Owner": "Locals",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 6,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "lowlandsSpring",
+        "lowlandsFall",
+        "highlandsSpring",
+        "highlandsFall",
+        "desertParched",
+        "badlandsParched",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "Liao",
+        "MagistracyOfCanopus",
+        "Locals"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Liao",
+        "MagistracyOfCanopus",
+        "Locals"
+    ]
+}

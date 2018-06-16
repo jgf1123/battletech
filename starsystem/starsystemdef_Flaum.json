@@ -1,0 +1,135 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Flaum",
+        "Name": "Flaum",
+        "Details": "Most of the few inhabitants of this arid world live in the extremely fertile floodplains of the planet's only major river system, where they operate and maintain the automated farms. A smaller number of people live in the mining plants of Flaum's north polar region.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 183.84,
+        "y": -419,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_arid",
+            "planet_pop_small",
+            "planet_civ_periphery",
+            "planet_progress_2a",
+            "planet_industry_mining",
+            "planet_other_storms",
+            "planet_industry_agriculture",
+            "planet_name_flaum",
+            "planet_faction_taurian"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 7,
+    "Owner": "TaurianConcordat",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 5,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2a"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "desertParched",
+        "badlandsParched",
+        "polarFrozen"
+    ],
+    "StarType": "K",
+    "ContractEmployers": [
+        "Davion",
+        "TaurianConcordat"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Davion",
+        "TaurianConcordat"
+    ]
+}

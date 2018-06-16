@@ -1,0 +1,143 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Brinton",
+        "Name": "Brinton",
+        "Details": "Brinton is an infamous world due to the plague that bears its name. Centuries ago the Capellans released a bio-weapon on the surface, which continues to be deadly even now. The target of numerous raids, Brinton is now heavily guarded by the Concordat.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 134.64,
+        "y": -411.52,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_arctic",
+            "planet_pop_small",
+            "planet_civ_innersphere",
+            "planet_progress_2a",
+            "planet_feature_moon02",
+            "planet_other_plague",
+            "planet_industry_manufacturing",
+            "planet_industry_research",
+            "planet_other_comstar",
+            "planet_industry_rich",
+            "planet_other_moon",
+            "planet_name_brinton",
+            "planet_faction_taurian"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": true,
+    "JumpDistance": 18,
+    "Owner": "TaurianConcordat",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 10,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 3,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2a"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "highlandsSpring",
+        "highlandsFall",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "B",
+    "ContractEmployers": [
+        "Liao",
+        "Davion",
+        "ComStar",
+        "TaurianConcordat"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Liao",
+        "Davion",
+        "TaurianConcordat"
+    ]
+}

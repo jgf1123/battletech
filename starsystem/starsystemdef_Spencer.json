@@ -1,0 +1,141 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Spencer",
+        "Name": "Spencer",
+        "Details": "This former Taurian world is encircled by a vast shallow ocean, teeming with native and Terran aquatic life. During the abortive Taurian-Canopian War, the Magistracy invaded as a retaliation for attacks on their worlds.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 5.46,
+        "y": -493.63,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_water",
+            "planet_pop_small",
+            "planet_civ_primitive",
+            "planet_progress_2",
+            "planet_feature_moon03",
+            "planet_industry_aquaculture",
+            "planet_industry_poor",
+            "planet_other_moon",
+            "planet_name_spencer",
+            "planet_faction_independent"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 8,
+    "Owner": "Locals",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 3,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": -1,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "lowlandsSpring",
+        "lowlandsFall",
+        "highlandsSpring",
+        "highlandsFall",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "K",
+    "ContractEmployers": [
+        "MagistracyOfCanopus",
+        "Marik",
+        "Locals"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "MagistracyOfCanopus",
+        "Marik",
+        "Locals"
+    ]
+}

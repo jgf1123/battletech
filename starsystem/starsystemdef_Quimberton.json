@@ -1,0 +1,146 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Quimberton",
+        "Name": "Quimberton",
+        "Details": "Despite a lack of natural resources or majestic scenery, Quimberton has managed to become a recreational hub, mostly due to vast estates it rents out as timeshares to well-off people who want a taste of true wealth.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 83.17,
+        "y": -361.96,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_large",
+            "planet_climate_terran",
+            "planet_pop_large",
+            "planet_civ_innersphere",
+            "planet_progress_3",
+            "planet_feature_moon01",
+            "planet_industry_agriculture",
+            "planet_industry_research",
+            "planet_industry_recreation",
+            "planet_industry_rich",
+            "planet_other_blackmarket",
+            "planet_other_moon",
+            "planet_name_quimberton",
+            "planet_faction_liao"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": true,
+    "JumpDistance": 6,
+    "Owner": "Liao",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 7,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "lowlandsSpring",
+        "lowlandsFall",
+        "highlandsSpring",
+        "highlandsFall",
+        "desertParched",
+        "badlandsParched",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "K",
+    "ContractEmployers": [
+        "Marik",
+        "Davion",
+        "Liao"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Marik",
+        "Davion",
+        "Liao"
+    ]
+}

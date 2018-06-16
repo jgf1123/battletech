@@ -1,0 +1,138 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Brixtana",
+        "Name": "Brixtana",
+        "Details": "Brixtana is a cold world with windswept tundra and boreal forests. Once the site of an SLDF garrison, it was conquered early in the Reunification War despite dogged resistance by Magistracy-aligned mercenaries.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": -92.56,
+        "y": -453.93,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_arctic",
+            "planet_pop_small",
+            "planet_civ_periphery",
+            "planet_progress_3",
+            "planet_industry_mining",
+            "planet_other_storms",
+            "planet_other_starleague",
+            "planet_name_brixtana",
+            "planet_faction_magistracy"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 3,
+    "Owner": "MagistracyOfCanopus",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 5,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "highlandsSpring",
+        "highlandsFall",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "Marik",
+        "Liao",
+        "MagistracyOfCanopus"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Marik",
+        "Liao",
+        "MagistracyOfCanopus"
+    ]
+}

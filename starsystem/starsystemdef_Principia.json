@@ -1,0 +1,143 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Principia",
+        "Name": "Principia",
+        "Details": "Principia is the seat of the judiciary for the Capellan Confederation and, as such, caters to the needs of Capellan nobles who have taken it as a vacation home. It also has courts dedicated to adjucating mercenary contracts with the Liao.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 0,
+        "y": -360.95,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_terran",
+            "planet_pop_large",
+            "planet_civ_innersphere",
+            "planet_progress_3",
+            "planet_industry_recreation",
+            "planet_industry_research",
+            "planet_industry_rich",
+            "planet_other_capital",
+            "planet_other_hub",
+            "planet_other_blackmarket",
+            "planet_name_principia",
+            "planet_faction_liao"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": true,
+    "JumpDistance": 10,
+    "Owner": "Liao",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 9,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 2,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "lowlandsSpring",
+        "lowlandsFall",
+        "highlandsSpring",
+        "highlandsFall",
+        "desertParched",
+        "badlandsParched",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "F",
+    "ContractEmployers": [
+        "Marik",
+        "Liao"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Marik",
+        "Liao"
+    ]
+}

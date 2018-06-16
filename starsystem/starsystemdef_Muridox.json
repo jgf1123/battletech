@@ -1,0 +1,141 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Muridox",
+        "Name": "Muridox",
+        "Details": "Granted as a backhanded reward to a troublesome minor Liao family, Muridox is a deep-water planet with vast floating hydroponics platforms and settlements on the polar ice caps dedicated to deep-dive harvests of native sea life. ",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 107.45,
+        "y": -385.46,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_water",
+            "planet_pop_medium",
+            "planet_civ_innersphere",
+            "planet_progress_3",
+            "planet_feature_comet",
+            "planet_industry_agriculture",
+            "planet_industry_manufacturing",
+            "planet_industry_aquaculture",
+            "planet_name_muridox",
+            "planet_faction_liao"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": true,
+    "JumpDistance": 4,
+    "Owner": "Liao",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 7,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 1,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "lowlandsSpring",
+        "lowlandsFall",
+        "highlandsSpring",
+        "highlandsFall",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "Davion",
+        "TaurianConcordat",
+        "Liao"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Davion",
+        "TaurianConcordat",
+        "Liao"
+    ]
+}

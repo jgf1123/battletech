@@ -1,0 +1,140 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Pilpala",
+        "Name": "Pilpala",
+        "Details": "Pilpala recently changed hands when the Free Worlds League moved in a large number of mercenaries that dominated the few troops stationed there by the Capellan Confederation. The planet's mercantile population is uneasily adapting to the regime change.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": -23.73,
+        "y": -378.68,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_tropical",
+            "planet_pop_medium",
+            "planet_civ_periphery",
+            "planet_progress_3",
+            "planet_industry_agriculture",
+            "planet_industry_aquaculture",
+            "planet_industry_research",
+            "planet_other_battlefield",
+            "planet_event_pox",
+            "planet_name_pilpala",
+            "planet_faction_marik"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 6,
+    "Owner": "Marik",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 7,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 2,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "lowlandsSpring",
+        "desertParched",
+        "badlandsParched"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "MagistracyOfCanopus",
+        "Liao",
+        "Steiner",
+        "Marik"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "MagistracyOfCanopus",
+        "Liao",
+        "Marik"
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Lyreton",
+        "Name": "Lyreton",
+        "Details": "This former Capellan colony is spread across three tropical moons of the system's large gas giant. Each moon is independent and civil conflict between the moons makes the system a tense and dangerous place.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 58.98,
+        "y": -423.68,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_small",
+            "planet_climate_tropical",
+            "planet_pop_medium",
+            "planet_civ_periphery",
+            "planet_progress_2",
+            "planet_feature_gasgiant",
+            "planet_industry_research",
+            "planet_industry_agriculture",
+            "planet_name_lyreton",
+            "planet_faction_independent"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 5,
+    "Owner": "Locals",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 5,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "lowlandsSpring",
+        "desertParched",
+        "badlandsParched"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "Liao",
+        "Locals"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Liao",
+        "Locals"
+    ]
+}

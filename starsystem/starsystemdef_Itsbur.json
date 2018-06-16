@@ -1,0 +1,134 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Itsbur",
+        "Name": "Itsbur",
+        "Details": "Itsbur is a frozen world, nearly uninhabitable, and as a consequence the Capellan government had a difficult time recruiting colonists. Terraforming efforts never made it past the early stages, and eventually the colony died out, with insufficient population growth.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 64.1,
+        "y": -365.44,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_small",
+            "planet_climate_ice",
+            "planet_pop_none",
+            "planet_civ_primitive",
+            "planet_progress_3",
+            "planet_other_ruins",
+            "planet_other_empty",
+            "planet_name_itsbur",
+            "planet_faction_liao"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 4,
+    "Owner": "Liao",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 4,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "polarFrozen"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "Marik",
+        "Davion",
+        "Liao"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Marik",
+        "Davion",
+        "Liao"
+    ]
+}

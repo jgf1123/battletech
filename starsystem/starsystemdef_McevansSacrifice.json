@@ -1,0 +1,135 @@
+{
+    "Description": {
+        "Id": "starsystemdef_McevansSacrifice",
+        "Name": "Mcevans' Sacrifice",
+        "Details": "No records indicate who McEvans was, or what their sacrifice might have been. The surface of this arctic world is bare of any sign of prior human colonization, aside from the ruins of a single colony DropShip half-buried in ice.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 42.47,
+        "y": -520.24,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_small",
+            "planet_climate_arctic",
+            "planet_pop_none",
+            "planet_civ_primitive",
+            "planet_progress_2",
+            "planet_other_pirate",
+            "planet_other_empty",
+            "planet_name_mcevanssacrifice",
+            "planet_faction_nofaction"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 5,
+    "Owner": "NoFaction",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 3,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": -1,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "highlandsSpring",
+        "highlandsFall",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "MagistracyOfCanopus",
+        "TaurianConcordat"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "MagistracyOfCanopus",
+        "TaurianConcordat"
+    ]
+}

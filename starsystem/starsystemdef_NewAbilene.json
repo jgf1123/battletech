@@ -1,0 +1,135 @@
+{
+    "Description": {
+        "Id": "starsystemdef_NewAbilene",
+        "Name": "New Abilene",
+        "Details": "New Abilene is a grassy world dedicated to raising livestock. The pastureland is mostly owned by a few wealthy 'barons' who are prone to violent squabbles over water rights and shipping privileges; MechWarrior marshals try to keep the peace.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": -72.38,
+        "y": -454.37,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_arid",
+            "planet_pop_medium",
+            "planet_civ_primitive",
+            "planet_progress_3",
+            "planet_industry_agriculture",
+            "planet_industry_poor",
+            "planet_event_pox",
+            "planet_name_newabilene",
+            "planet_faction_magistracy"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": true,
+    "JumpDistance": 5,
+    "Owner": "MagistracyOfCanopus",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 4,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "desertParched",
+        "badlandsParched",
+        "polarFrozen"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "Liao",
+        "MagistracyOfCanopus"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Liao",
+        "MagistracyOfCanopus"
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Camadeirre",
+        "Name": "Camadeirre",
+        "Details": "The Camadeirre system is choked with asteroids and dominated by three Jovian gas giants; inhabitants live on a terraformed moon. A raid by the SLDF on Camadeirre is commonly thought to have been the spark that started the New Vandenberg Uprising.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 219.53,
+        "y": -404.9,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_rocky",
+            "planet_pop_small",
+            "planet_civ_periphery",
+            "planet_progress_2a",
+            "planet_feature_gasgiant",
+            "planet_industry_mining",
+            "planet_industry_manufacturing",
+            "planet_name_camadeirre",
+            "planet_faction_taurian"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 4,
+    "Owner": "TaurianConcordat",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 5,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2a"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "highlandsSpring",
+        "highlandsFall",
+        "badlandsParched",
+        "tundraFrozen",
+        "martianVacuum"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "Davion",
+        "TaurianConcordat"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Davion",
+        "TaurianConcordat"
+    ]
+}

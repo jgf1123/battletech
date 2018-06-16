@@ -1,0 +1,138 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Chandan",
+        "Name": "Chandan",
+        "Details": "This cold and rocky world is choked by silt and ash in the air from the constant volcanic activity. Inhabitants live in hab-spheres, emerging only to work in the extensive mines or research the local silicon-based life forms.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 18.22,
+        "y": -512.48,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_small",
+            "planet_climate_mars",
+            "planet_pop_none",
+            "planet_civ_periphery",
+            "planet_progress_2",
+            "planet_feature_moon03",
+            "planet_industry_mining",
+            "planet_industry_research",
+            "planet_other_taintedair",
+            "planet_other_volcanic",
+            "planet_other_moon",
+            "planet_name_chandan",
+            "planet_faction_independent"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 3,
+    "Owner": "Locals",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 4,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": -1,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "martianVacuum"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "MagistracyOfCanopus",
+        "Marik",
+        "Locals"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "MagistracyOfCanopus",
+        "Marik",
+        "Locals"
+    ]
+}

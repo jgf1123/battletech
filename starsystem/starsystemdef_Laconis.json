@@ -1,0 +1,141 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Laconis",
+        "Name": "Laconis",
+        "Details": "Laconis is a cold, watery world, and between the chilly temperatures and the annual hurricane season, most of the 75 million inhabitants live below-ground. Taurus Majoris Mining is the world's largest employer, but many other smaller industrial firms have relocated to the prosperous world.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 153.28,
+        "y": -396.3,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_medium",
+            "planet_climate_arctic",
+            "planet_pop_medium",
+            "planet_civ_periphery",
+            "planet_progress_2a",
+            "planet_feature_moon01",
+            "planet_industry_mining",
+            "planet_industry_manufacturing",
+            "planet_other_moon",
+            "planet_industry_rich",
+            "planet_industry_aquaculture",
+            "planet_name_laconis",
+            "planet_faction_taurian"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 16,
+    "Owner": "TaurianConcordat",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 7,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 1,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_2a"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "highlandsSpring",
+        "highlandsFall",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "B",
+    "ContractEmployers": [
+        "Liao",
+        "Davion",
+        "TaurianConcordat"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Liao",
+        "Davion",
+        "TaurianConcordat"
+    ]
+}

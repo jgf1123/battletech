@@ -1,0 +1,139 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Fagerholm",
+        "Name": "Fagerholm",
+        "Details": "Fagerholm is a dry world with large canyon systems that are the result of millions of years of erosion from the rivers that once crossed its surface. Originally a Capellan colony, it was lost to the Free Worlds League in the aftermath of the First Succession War.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": -82.67,
+        "y": -366.16,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_large",
+            "planet_climate_arid",
+            "planet_pop_medium",
+            "planet_civ_periphery",
+            "planet_progress_3",
+            "planet_feature_moon01",
+            "planet_industry_mining",
+            "planet_industry_manufacturing",
+            "planet_other_moon",
+            "planet_name_fagerholm",
+            "planet_faction_marik"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 6,
+    "Owner": "Marik",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 5,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 0,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "desertParched",
+        "badlandsParched",
+        "polarFrozen"
+    ],
+    "StarType": "K",
+    "ContractEmployers": [
+        "MagistracyOfCanopus",
+        "Liao",
+        "Steiner",
+        "Marik"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "MagistracyOfCanopus",
+        "Liao",
+        "Marik"
+    ]
+}

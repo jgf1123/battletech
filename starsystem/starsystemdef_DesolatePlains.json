@@ -1,0 +1,136 @@
+{
+    "Description": {
+        "Id": "starsystemdef_DesolatePlains",
+        "Name": "Desolate Plains",
+        "Details": "Desolate Plains has had the misfortune of being caught between Davion, Liao, and the Taurians, and has suffered as a consequence: space battles led to the complete destruction of the planet's single small moon, leaving a dangerous ring system in orbit.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 207.01,
+        "y": -361.62,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_small",
+            "planet_climate_desert",
+            "planet_pop_none",
+            "planet_civ_primitive",
+            "planet_progress_3",
+            "planet_feature_rings",
+            "planet_other_ruins",
+            "planet_other_storms",
+            "planet_other_empty",
+            "planet_name_desolateplains",
+            "planet_faction_davion"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 5,
+    "Owner": "Davion",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 6,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 2,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "desertParched",
+        "martianVacuum"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "TaurianConcordat",
+        "Kurita",
+        "Davion"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "TaurianConcordat",
+        "Davion"
+    ]
+}

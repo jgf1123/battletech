@@ -1,0 +1,137 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Balawat",
+        "Name": "Balawat",
+        "Details": "Long ago, frozen Balawat was struck by a meteor that dug a hole deep in the planet's crust, letting shine its inner light. Now, only in this giant crater, life thrives, including a single large Magistracy port initially established as an art colony and since maintained by the mining industry.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": -52.05,
+        "y": -510.48,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_large",
+            "planet_climate_arctic",
+            "planet_pop_small",
+            "planet_civ_periphery",
+            "planet_progress_3",
+            "planet_feature_moon02",
+            "planet_industry_mining",
+            "planet_industry_manufacturing",
+            "planet_other_moon",
+            "planet_name_balawat",
+            "planet_faction_magistracy"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": false,
+    "JumpDistance": 3,
+    "Owner": "MagistracyOfCanopus",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 4,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": -1,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "highlandsSpring",
+        "highlandsFall",
+        "polarFrozen",
+        "tundraFrozen"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "Liao",
+        "MagistracyOfCanopus"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "Liao",
+        "MagistracyOfCanopus"
+    ]
+}

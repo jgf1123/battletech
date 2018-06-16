@@ -1,0 +1,138 @@
+{
+    "Description": {
+        "Id": "starsystemdef_Brockway",
+        "Name": "Brockway",
+        "Details": "A rugged, harsh world, Brockway was colonized only due to its rich mineral resources. Originally held by the Concordat, the planet was seized by the Federated Suns after the Reunification War and has been a Davion holding ever since.",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Position": {
+        "x": 220.12,
+        "y": -359.12,
+        "z": 0
+    },
+    "Tags": {
+        "items": [
+            "planet_size_large",
+            "planet_climate_arid",
+            "planet_pop_medium",
+            "planet_civ_innersphere",
+            "planet_progress_3",
+            "planet_feature_moon03",
+            "planet_industry_mining",
+            "planet_industry_agriculture",
+            "planet_other_battlefield",
+            "planet_other_moon",
+            "planet_name_brockway",
+            "planet_faction_davion"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "FuelingStation": true,
+    "JumpDistance": 4,
+    "Owner": "Davion",
+    "ShopRefreshRate": 0,
+    "ShopMaxInventory": 0,
+    "ShopMaxSpecials": 8,
+    "SystemInfluence": [
+        {
+            "Faction": "NoFaction",
+            "Influence": 0
+        },
+        {
+            "Faction": "Davion",
+            "Influence": 0
+        },
+        {
+            "Faction": "Liao",
+            "Influence": 0
+        },
+        {
+            "Faction": "Kurita",
+            "Influence": 0
+        },
+        {
+            "Faction": "Marik",
+            "Influence": 0
+        },
+        {
+            "Faction": "Steiner",
+            "Influence": 0
+        },
+        {
+            "Faction": "TaurianConcordat",
+            "Influence": 0
+        },
+        {
+            "Faction": "MagistracyOfCanopus",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganDirectorate",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganRestoration",
+            "Influence": 0
+        },
+        {
+            "Faction": "ComStar",
+            "Influence": 0
+        },
+        {
+            "Faction": "MercenaryReviewBoard",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganPirates",
+            "Influence": 0
+        },
+        {
+            "Faction": "AuriganMercenaries",
+            "Influence": 0
+        }
+    ],
+    "Difficulty": 2,
+    "TravelRequirements": [
+        {
+            "Scope": "Company",
+            "RequirementTags": {
+                "items": [
+                    "map_travel_3"
+                ],
+                "tagSetSourceFile": ""
+            },
+            "ExclusionTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+            },
+            "RequirementComparisons": []
+        }
+    ],
+    "MapRequiredTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "MapExcludedTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "SupportedBiomes": [
+        "desertParched",
+        "badlandsParched",
+        "polarFrozen"
+    ],
+    "StarType": "M",
+    "ContractEmployers": [
+        "TaurianConcordat",
+        "Kurita",
+        "Davion"
+    ],
+    "ContractTargets": [
+        "AuriganPirates",
+        "TaurianConcordat",
+        "Davion"
+    ]
+}
